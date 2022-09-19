@@ -1,0 +1,12 @@
+{
+  "name": "fl-cookies",
+  "version": "1.46.6",
+  "authors": [
+    "Laurent Goudet <laurent@freelancer.com>"
+  ],
+  "description": "A simple cookie store more powerful than the Angular one",
+  "main": "cookies.js",
+  "license": "Freelancer",
+  "homepage": "https://gitlab.freelancer.com/angular/fl-angular",
+  "private": true
+}
